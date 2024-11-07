@@ -1,0 +1,1 @@
+# BMP_grayscale_cuda
