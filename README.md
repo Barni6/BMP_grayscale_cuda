@@ -42,6 +42,3 @@ Ez a projekt az **Adatpárhuzamos programozás** kurzus keretében készült, é
 - **BMP Formátum**: A program csak a 24 bites BMP formátumú képeket támogatja.
 - **Fejléc**: A BMP fejléc az eredeti fájlból kerül átmásolásra, a pixeladatok viszont módosítottak.
 
-## Licence
-
-Ez a projekt az [MIT Licence](LICENSE) feltételei szerint használható és módosítható.
